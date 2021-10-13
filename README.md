@@ -1,1 +1,1 @@
-# ScreenShot
+# ScreenShot Function.
